@@ -1,0 +1,23 @@
+{
+  "name": "eslint-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OGsplendid/ESLint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OGsplendid/ESLint/issues"
+  },
+  "homepage": "https://github.com/OGsplendid/ESLint#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
